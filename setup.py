@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name='southwest-headers',
     version='1.0',
-    packages=['southwest-headers'],
+    packages=[''],
     url='https://github.com/nicolaskenner/southwest-headers',
     license='',
     author='nicolaskenner',
